@@ -706,6 +706,4 @@ They have chosen one pig, be gone!: 9 9 1 9 9 1 9 9 1
 
 One gram of Cocaine: 4 4 2 2 1 5 4 3 4 5
 
-Kill Herdisen: 9 9 0 0 9 9 0 0 1
-
 He's seeing himself: 1 1 a a 1 1 b
